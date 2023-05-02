@@ -1,0 +1,17 @@
+body {
+    background-color: #D5E1EF;
+}
+
+.container {
+    max-width: 400px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+#text {
+    max-width: 300px;
+    margin: auto;
+}
